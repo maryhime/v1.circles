@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './index.css'
-import HomePage from './assets/pages/HomePage.jsx'
+import HomePage from './pages/HomePage'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
