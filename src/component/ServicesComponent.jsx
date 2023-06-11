@@ -4,6 +4,7 @@ import ServicesPillComponent from './generic/ServicesPillComponent'
 
 const ServicesComponent = () => {
   return (
+    
     <div className="flex flex-row gap-[48px] py-[150px] px-[100px] bg-cover bg-[url('images/services.png')] items-center">
       {/* heading + buttons */}
       <div className="flex flex-col gap-[48px] w-full">
